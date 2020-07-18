@@ -1,6 +1,6 @@
 # HduPhoenix_Hw
 This repository is built to store the cv homework for HduPhoenix2020.
-- opencv version:0.4.1
+- opencv version : 0.4.1
 
 
 | 作业         | 任务描述                                                     | 参考资料                                                     |
